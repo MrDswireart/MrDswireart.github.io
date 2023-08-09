@@ -1,4 +1,26 @@
 @charset "UTF-8";
+
+/*!Social Media icons*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  color: white;
+}
+
 /*!
 * Start Bootstrap - Shop Homepage v5.0.6 (https://startbootstrap.com/template/shop-homepage)
 * Copyright 2013-2023 Start Bootstrap
@@ -7992,6 +8014,12 @@ textarea.form-control-lg {
 
 .text-center {
   text-align: center !important;
+}
+
+.text-center-vt {
+  display: flex;
+  justify-content: center; /* Align horizontal */
+  align-items: center; /* Align vertical */
 }
 
 .text-decoration-none {

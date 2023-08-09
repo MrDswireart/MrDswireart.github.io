@@ -1,7 +1,7 @@
 {
   "name": "dans_site",
-  "version": "1.0.0",
-  "description": "Ecommerce site for Dans wire art",
+  "version": "0.1.0",
+  "description": "Ecommerce site for Dan's wire art",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/w-schwier/dans_site.git"
   },
-  "author": "",
+  "author": "Will Schwier",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/w-schwier/dans_site/issues"
   },
-  "homepage": "https://github.com/w-schwier/dans_site#readme",
+  "homepage": "https://w-schwier.github.io/dans_site/",
   "dependencies": {
     "express": "^4.18.2"
   }
