@@ -4,5 +4,6 @@
   {"name":"Fairy 1", "size":"60cm", "price":"100.00", "availability":"In stock"},
   {"name":"Fairy 2", "size":"60cm", "price":"100.00", "availability":"In stock"},
   {"name":"Fairy Garden", "size":"40cm", "price":"90.00", "availability":"ETA: 2 weeks"},
-  {"name":"Peter Rabbit", "size":"60cm", "price":"150.00", "availability":"ETA: 7 weeks"}
+  {"name":"Peter Rabbit", "size":"60cm", "price":"150.00", "availability":"ETA: 7 weeks"},
+  {"name":"Spider", "size":"45cm", "price":"190.00", "availability":"ETA: 7 weeks"}
 ]}
